@@ -1,6 +1,6 @@
 # FIFA PLAYER MARKET VALUATION
 ## Introduction
-Football is the world most popular game however it is abig businsee as well, many clubs make a lots of income by developing young player and then selling them to a bigger club at higher amount.
+Football is the world most popular game however it is a big business as well, many clubs make a lot of income by developing young players and then selling them to a bigger club at higher amounts.
 Player transfers have a tremendous impact on a club’s chances of success, Market values play an important role in transfer negotiations.We seek to analyze the data and identify the most important factors affecting the determination of the market value and the model is build  to predict the market value of a player which helps the club managers to negotiate with them. 
 
 ## Motivation
